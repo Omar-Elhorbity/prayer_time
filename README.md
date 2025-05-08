@@ -73,4 +73,4 @@ prayer_time.py --manual
 
 This project is open source and available under the MIT License. 
 
-Originally made by [Hassan Ezz](https://github.com/hasssanezzz)
+Ⓒ Originally made by [Hassan Ezz](https://github.com/hasssanezzz)
