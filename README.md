@@ -15,7 +15,7 @@ A command-line interface tool that displays Islamic prayer times for your locati
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/yourusername/prayer_time.git
+git clone https://github.com/Omar-Elhorbity/prayer_time.git
 ```
 
 2. Install the required dependencies:
